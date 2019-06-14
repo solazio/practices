@@ -57,6 +57,9 @@ This is so that team members can easily run multiple projects at the same time w
 | 8206 | [security-certs-docs](https://github.com/CanonicalLtd/security-certs-docs)                          |
 | 8207 | [ubuntu-core-docs](https://github.com/CanonicalLtd/ubuntu-core-docs)                                |
 | 8300 | [global-nav](https://github.com/canonical-web-and-design/global-nav)                                |
+| 8301 | [juju-cards](https://github.com/CanonicalLtd/juju-cards)                                            |
+
+
 
 ## Why use a fixed port
 
